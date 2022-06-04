@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://images.alphacoders.com/112/thumb-1920-1129428.jpg");
+    background-size: cover ;
+}
+.infodiv {
+    background-color: rgba(255, 255, 255, 0.816);
+    margin: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: lightslategray;
+}
+h2 {
+    text-align: center;
+    color: lightslategray;
+}
+h3 {
+    text-align: center;
+    color: lightslategray;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    color: lightslategray;
+    font-size:  18px;
+}
+img {
+    width: 700px;
+}
+a {
+    color: lightslategray;
+}
+a:hover {
+    color: rgb(147, 166, 185);
+}
